@@ -1,2 +1,2 @@
-# Portfolio link: https://jonahcancio.github.io
+# Portfolio link: https://jonahcancio.github.io/jonahcancio
 
