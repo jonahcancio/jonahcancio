@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/jonahcancio/static/css/main.11db5cd5.chunk.css",
-    "main.js": "/jonahcancio/static/js/main.4a968ccc.chunk.js",
-    "main.js.map": "/jonahcancio/static/js/main.4a968ccc.chunk.js.map",
+    "main.css": "/jonahcancio/static/css/main.fd17c183.chunk.css",
+    "main.js": "/jonahcancio/static/js/main.8c762542.chunk.js",
+    "main.js.map": "/jonahcancio/static/js/main.8c762542.chunk.js.map",
     "runtime-main.js": "/jonahcancio/static/js/runtime-main.8efcc43d.js",
     "runtime-main.js.map": "/jonahcancio/static/js/runtime-main.8efcc43d.js.map",
-    "static/js/2.2d86902d.chunk.js": "/jonahcancio/static/js/2.2d86902d.chunk.js",
-    "static/js/2.2d86902d.chunk.js.map": "/jonahcancio/static/js/2.2d86902d.chunk.js.map",
+    "static/js/2.0e2bc4e1.chunk.js": "/jonahcancio/static/js/2.0e2bc4e1.chunk.js",
+    "static/js/2.0e2bc4e1.chunk.js.map": "/jonahcancio/static/js/2.0e2bc4e1.chunk.js.map",
     "index.html": "/jonahcancio/index.html",
-    "precache-manifest.4c814431b25f43f999b7c44c1b4c1abd.js": "/jonahcancio/precache-manifest.4c814431b25f43f999b7c44c1b4c1abd.js",
+    "precache-manifest.407b0aa0c59e9dac97f9360570db85b2.js": "/jonahcancio/precache-manifest.407b0aa0c59e9dac97f9360570db85b2.js",
     "service-worker.js": "/jonahcancio/service-worker.js",
-    "static/css/main.11db5cd5.chunk.css.map": "/jonahcancio/static/css/main.11db5cd5.chunk.css.map",
+    "static/css/main.fd17c183.chunk.css.map": "/jonahcancio/static/css/main.fd17c183.chunk.css.map",
     "static/media/index.css": "/jonahcancio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/jonahcancio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/jonahcancio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/jonahcancio/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/aws_solutions_architect.png": "/jonahcancio/static/media/aws_solutions_architect.32b22e4c.png",
     "static/media/blogs_image.svg": "/jonahcancio/static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "/jonahcancio/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/jonahcancio/static/media/codeInLogo.fee92c18.png",
@@ -39,6 +40,7 @@
     "static/media/jsFramework.svg": "/jonahcancio/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/jonahcancio/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/jonahcancio/static/media/manOnTable.83ac24fb.svg",
+    "static/media/montani_logo.webp": "/jonahcancio/static/media/montani_logo.2a06183e.webp",
     "static/media/montani_logo.jpg": "/jonahcancio/static/media/montani_logo.8ec74a6b.jpg",
     "static/media/muffito_logo.png": "/jonahcancio/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/jonahcancio/static/media/nptel_logo.95a12a2b.png",
@@ -57,8 +59,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8efcc43d.js",
-    "static/js/2.2d86902d.chunk.js",
-    "static/css/main.11db5cd5.chunk.css",
-    "static/js/main.4a968ccc.chunk.js"
+    "static/js/2.0e2bc4e1.chunk.js",
+    "static/css/main.fd17c183.chunk.css",
+    "static/js/main.8c762542.chunk.js"
   ]
 }
