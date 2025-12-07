@@ -26,7 +26,7 @@ const greeting = {
     "Experienced software developer with a proven record of delivering scalable, high-impact solutions.",
   resumeLink:
     "https://drive.google.com/file/d/1Xkdxz4Bz3dVHsnHTdJN0NtgEqYcSPZXQ/view?usp=sharing",
-  portfolio_repository: "https://github.com/jonahcancio/masterPortfolio",
+  portfolio_repository: "https://github.com/jonahcancio/jonahcancio",
   githubProfile: "https://github.com/jonahcancio",
 };
 
