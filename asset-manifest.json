@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jonahcancio/static/css/main.11db5cd5.chunk.css",
-    "main.js": "/jonahcancio/static/js/main.36c785ba.chunk.js",
-    "main.js.map": "/jonahcancio/static/js/main.36c785ba.chunk.js.map",
+    "main.js": "/jonahcancio/static/js/main.4a968ccc.chunk.js",
+    "main.js.map": "/jonahcancio/static/js/main.4a968ccc.chunk.js.map",
     "runtime-main.js": "/jonahcancio/static/js/runtime-main.8efcc43d.js",
     "runtime-main.js.map": "/jonahcancio/static/js/runtime-main.8efcc43d.js.map",
-    "static/js/2.ce75be33.chunk.js": "/jonahcancio/static/js/2.ce75be33.chunk.js",
-    "static/js/2.ce75be33.chunk.js.map": "/jonahcancio/static/js/2.ce75be33.chunk.js.map",
+    "static/js/2.2d86902d.chunk.js": "/jonahcancio/static/js/2.2d86902d.chunk.js",
+    "static/js/2.2d86902d.chunk.js.map": "/jonahcancio/static/js/2.2d86902d.chunk.js.map",
     "index.html": "/jonahcancio/index.html",
-    "precache-manifest.45ef594118defad09fa6e22e80e9d1c0.js": "/jonahcancio/precache-manifest.45ef594118defad09fa6e22e80e9d1c0.js",
+    "precache-manifest.4c814431b25f43f999b7c44c1b4c1abd.js": "/jonahcancio/precache-manifest.4c814431b25f43f999b7c44c1b4c1abd.js",
     "service-worker.js": "/jonahcancio/service-worker.js",
     "static/css/main.11db5cd5.chunk.css.map": "/jonahcancio/static/css/main.11db5cd5.chunk.css.map",
     "static/media/index.css": "/jonahcancio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -39,22 +39,26 @@
     "static/media/jsFramework.svg": "/jonahcancio/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/jonahcancio/static/media/legato_logo.c597fbde.png",
     "static/media/manOnTable.svg": "/jonahcancio/static/media/manOnTable.83ac24fb.svg",
+    "static/media/montani_logo.jpg": "/jonahcancio/static/media/montani_logo.8ec74a6b.jpg",
     "static/media/muffito_logo.png": "/jonahcancio/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/jonahcancio/static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "/jonahcancio/static/media/portfolio.414dfbd9.gif",
     "static/media/programmer.svg": "/jonahcancio/static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "/jonahcancio/static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "/jonahcancio/static/media/pwa.71408db7.png",
+    "static/media/secret_six_logo.png": "/jonahcancio/static/media/secret_six_logo.06b110a1.png",
     "static/media/stanford_logo.png": "/jonahcancio/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/jonahcancio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/jonahcancio/static/media/talksCardBackAlt.3fa54242.svg",
     "static/media/tiktok_logo.png": "/jonahcancio/static/media/tiktok_logo.0993e324.png",
-    "static/media/ui_ux_design.svg": "/jonahcancio/static/media/ui_ux_design.d6363089.svg"
+    "static/media/trendmicro_logo.png": "/jonahcancio/static/media/trendmicro_logo.c98d194a.png",
+    "static/media/ui_ux_design.svg": "/jonahcancio/static/media/ui_ux_design.d6363089.svg",
+    "static/media/up_logo.png": "/jonahcancio/static/media/up_logo.3cac72d8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8efcc43d.js",
-    "static/js/2.ce75be33.chunk.js",
+    "static/js/2.2d86902d.chunk.js",
     "static/css/main.11db5cd5.chunk.css",
-    "static/js/main.36c785ba.chunk.js"
+    "static/js/main.4a968ccc.chunk.js"
   ]
 }

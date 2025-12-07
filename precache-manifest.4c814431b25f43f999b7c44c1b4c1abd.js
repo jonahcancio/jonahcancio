@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49580bc7db5e417e4ea3e15f18098fa1",
+    "revision": "e319e21a72d6ed9ce4e7567cfbc03605",
     "url": "/jonahcancio/index.html"
   },
   {
-    "revision": "a38fffd04c8c60536148",
+    "revision": "ca5c1ff6e911a0764a1e",
     "url": "/jonahcancio/static/css/main.11db5cd5.chunk.css"
   },
   {
-    "revision": "892eb19fa63ce5d1d159",
-    "url": "/jonahcancio/static/js/2.ce75be33.chunk.js"
+    "revision": "51dbbdaf0a252aa47108",
+    "url": "/jonahcancio/static/js/2.2d86902d.chunk.js"
   },
   {
-    "revision": "a38fffd04c8c60536148",
-    "url": "/jonahcancio/static/js/main.36c785ba.chunk.js"
+    "revision": "ca5c1ff6e911a0764a1e",
+    "url": "/jonahcancio/static/js/main.4a968ccc.chunk.js"
   },
   {
     "revision": "f3aa9bc1ff4a0280ef90",
@@ -216,6 +216,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jonahcancio/static/media/manOnTable.83ac24fb.svg"
   },
   {
+    "revision": "8ec74a6bc678e8ae6aa26b017bea8984",
+    "url": "/jonahcancio/static/media/montani_logo.8ec74a6b.jpg"
+  },
+  {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
     "url": "/jonahcancio/static/media/muffito_logo.069938a8.png"
   },
@@ -240,6 +244,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jonahcancio/static/media/pwa.71408db7.png"
   },
   {
+    "revision": "06b110a149509fc04a5804306397b725",
+    "url": "/jonahcancio/static/media/secret_six_logo.06b110a1.png"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/jonahcancio/static/media/stanford_logo.2c497738.png"
   },
@@ -256,7 +264,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jonahcancio/static/media/tiktok_logo.0993e324.png"
   },
   {
+    "revision": "c98d194a118fe82d701620cca0668ccd",
+    "url": "/jonahcancio/static/media/trendmicro_logo.c98d194a.png"
+  },
+  {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "/jonahcancio/static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "3cac72d8fa8d5b3ccc9123b9da33ba5b",
+    "url": "/jonahcancio/static/media/up_logo.3cac72d8.png"
   }
 ]);
